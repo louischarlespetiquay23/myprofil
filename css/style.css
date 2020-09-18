@@ -1,0 +1,63 @@
+/*Import Link*/
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Roboto+Slab:wght@300;400;500;700&display=swap');
+@import url('https://use.fontawesome.com/releases/v5.0.10/css/all.css');
+@import url('https://fonts.googleapis.com/css2?family=Grandstander:wght@100&display=swap');
+
+/*import componbents*/
+
+@import url('components/images.css');
+@import url('components/card.css');
+@import url('components/container.css');
+@import url('components/banner.css');
+
+
+body{
+     background-color: #D1A7A0;
+     margin: 0px 0px;
+
+}
+
+h1{
+	font-size: 40px;
+	font-family: "Grandstander extra-light 200 italic", cursive ;
+	color: #78C091;
+	margin: 0px;
+	padding: 0px;
+	color: rgb(30, 150, 200);
+
+
+}
+
+
+
+
+p{
+	font-size: 15px;
+	font-family: "Grandstander", cursive;
+	color: #A23B72; 
+
+}
+
+i{
+	font-size: 30px;
+	transition: 0.2s;
+
+}
+
+i:hover{
+  color: #FFF05A;
+}
+
+h1:hover{
+	color: #D1A7A0;
+	cursor: default;
+	margin:;
+	
+}
+
+ul{
+	font-family: "Grandstander", cursive;
+	color:#FFF05A; 
+}
+

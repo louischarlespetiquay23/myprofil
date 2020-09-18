@@ -1,0 +1,19 @@
+img{
+	border-radius: 20px ;
+	margin: 20px auto;
+	width: 100px;
+	transition: 0.5s;
+	size: 30px;
+	height: 100px;
+	object-fit: cover;
+
+
+}
+img:hover {
+    width: 250px;
+    object-fit: cover;
+    height: 250px;
+
+}
+
+
